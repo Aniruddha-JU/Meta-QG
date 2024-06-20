@@ -6,10 +6,12 @@
 - pytorch 1.0.0
 - pytorch_pretrained_bert
 
+
+
 ### Dataset:
 https://github.com/google-research-datasets/tydiqa
 
-
+### Run the code
 For meta training:
 Please create source language data in files named train_en.json and dev_en.json
 
