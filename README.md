@@ -19,7 +19,9 @@ where xyz is your desired result directory
 
 For zero-shot:
 Please create target language data dev_ben.json for bengali and dev_tel.json for telugu
+
 Run python3 main.py --zero_shot --model_dir models/xyz --test_langs ben
+
 you can use any set of languages for test languages argument
 
 
