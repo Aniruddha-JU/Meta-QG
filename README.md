@@ -28,6 +28,8 @@ you can use any set of languages for test languages argument
 For k-shot
 
 Please create target language train data and dev data
+
+
 Run python3 main.py --k_shot 32 --max_ft_steps 20 --model_dir models/en_tel --test_langs ben
 
 you can change values of k, maximum fine tuning steps, model directory and names of test languages accordingly.
