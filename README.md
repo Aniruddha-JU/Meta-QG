@@ -11,7 +11,6 @@ https://github.com/google-research-datasets/tydiqa
 
 
 For meta training:
-Navigate to Rupak_QG/meta_learning
 Please create source language data in files named train_en.json and dev_en.json
 
 Run python3 main.py --result_dir xyz
